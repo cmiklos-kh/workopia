@@ -1,0 +1,16 @@
+{
+    "name": "cmiklos/workopia",
+    "description": "Job listing application",
+    "authors": [
+        {
+            "name": "Connor Miklos",
+            "email": "cmiklos@kendallhunt.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
